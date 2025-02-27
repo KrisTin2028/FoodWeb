@@ -1,9 +1,5 @@
 # <p align="center">Food Ordering WebApp</p>
 
-[![Website](https://img.shields.io/badge/Website-No-brightgreen)]() 
-[![HitCount](http://hits.dwyl.com/VGandhi27/FoodWebApp.svg)](http://hits.dwyl.com/VGandhi27/FoodWebApp)
-[![GitHub forks](https://img.shields.io/github/forks/VGandhi27/FoodWebApp?label=Forks)](https://github.com/VGandhi27/FoodWebApp/network)                                                                                      [![GitHub stars](https://img.shields.io/github/stars/VGandhi27/FoodWebApp?label=Stars)](https://github.com/VGandhi27/Portfolio-ReactJs/stargazers)                                                                                                                                                      ![Github License](https://img.shields.io/badge/Licence-MIT-blueviolet)                                                                                                                                              [![contributors](https://img.shields.io/badge/contributors-1-orange)](https://img.shields.io/badge/contributors-1-orange) 
-
 ## Table of Contents
 - [General Info](#general_info)
 - [Features to implement in future](#features_for_future)
@@ -40,4 +36,3 @@ There is a separate module where each task that was identified as necessary in o
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
 
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/) 
